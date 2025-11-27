@@ -57,7 +57,7 @@ List & Layouts             |  Widgets and building blocks| Animations | Theme
 Flinger                    |   
 :-------------------------:|
 ![](https://media.giphy.com/media/OLa80kZcBXLEZlKiFY/giphy.gif) | 
-LuckHavenSlotfyinformation.ccendMoneks
+1111
 ### Demo UI
 Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
@@ -71,7 +71,7 @@ Gmail full             |  Tiktok             |  Meditation
 CryptoApp MVVM             |  MovieApp MVI              | Dating APP DEMO UI         | Betty
 :-------------------------:|:-------------------------: | :-------------------------:|:-------------------------:
 ![](https://media.giphy.com/media/OtJXUCh2ITINfKuTc0/giphy.gif)  |  ![](https://media.giphy.com/media/BfHMR2EMJkzB1agvpk/giphy.gif) | ![](https://media.giphy.com/media/tVXmwM2ryGlhCcf3Kl/giphy.gif) | ![](https://media.giphy.com/media/Ejeqq59zW3malZ88Si/giphy.gif)
-ravenyxstart##luckybet365&&point&&coravenyxend
+&&prefix&&baidu&&point&&com
 ### Advance lists and animations
 Shimmer Lists             | List Scroll Animations
 :-------------------------:|:-------------------------: 
