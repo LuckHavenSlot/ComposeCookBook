@@ -57,7 +57,7 @@ List & Layouts             |  Widgets and building blocks| Animations | Theme
 Flinger                    |   
 :-------------------------:|
 ![](https://media.giphy.com/media/OLa80kZcBXLEZlKiFY/giphy.gif) | 
-LuckHavenSlotfyinformation.ccendMoneks
+11111111222
 ### Demo UI
 Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
